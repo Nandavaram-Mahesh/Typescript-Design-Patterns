@@ -1,5 +1,29 @@
 {
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandavaram-Mahesh/Typescript-Design-Patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Nandavaram-Mahesh/Typescript-Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/Nandavaram-Mahesh/Typescript-Design-Patterns#readme",
   "dependencies": {
-    "typescript": "^5.9.3"
+    "@types/node": "^25.5.2",
+    "express": "^5.2.1",
+    "typescript": "^6.0.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6"
   }
 }
